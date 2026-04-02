@@ -15,6 +15,7 @@ jobs:
         python-version: 3.9
     - name: Build Blocklist
       run: |
+        cd dnsc-lists/
         python generate-domains-blocklist.py -o blocked-domains.txt
     - name: Check for modified files
       id: git-check
