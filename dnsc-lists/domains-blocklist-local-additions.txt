@@ -1,0 +1,10 @@
+# Local set of patterns to block
+
+*.lan
+*.local
+*.localdomain
+*.workgroup
+
+eth0.me
+
+ibpxl.com

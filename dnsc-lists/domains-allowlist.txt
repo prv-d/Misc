@@ -1,0 +1,11 @@
+nextdns.io
+api.cloudflareclient.com
+vpn-api.proton.me
+vpn.protondownload.com
+protonstatus.com
+protonvpn.ch
+protonvpn.com
+protonvpn.net
+vpncdn.protonweb.com
+windscribe.com
+windscribe.net
